@@ -5,6 +5,6 @@
     "RewardedId": "",
     "ImageId": "",
     "VideoId": "",
-    "DisplayAds": false,
-    "ClickCount": 3
+    "DisplayAds": true,
+    "ClickCount": 2
 }
